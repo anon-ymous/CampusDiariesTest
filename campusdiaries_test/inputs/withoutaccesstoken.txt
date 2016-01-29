@@ -1,0 +1,16 @@
+HTTP/1.1 400 Bad Request
+WWW-Authenticate: OAuth "Facebook Platform" "invalid_request" "An active access token must be used to query information about the current user."
+Access-Control-Allow-Origin: *
+Content-Type: application/json; charset=UTF-8
+X-FB-Trace-ID: A/V9G+a3KDq
+X-FB-Rev: 2150592
+Pragma: no-cache
+Cache-Control: no-store
+Facebook-API-Version: v2.0
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+X-FB-Debug: KL0AjtltFy0YLsqIPqC8dofSYckCffVrWIgruCxpVjPbQxTqGW7MZM8KanvSQtFKgUtDiApd1t7ZoUIff3rqLw==
+Date: Thu, 28 Jan 2016 11:10:33 GMT
+Connection: keep-alive
+Content-Length: 168
+
+{"error":{"message":"An active access token must be used to query information about the current user.","type":"OAuthException","code":2500,"fbtrace_id":"A\/V9G+a3KDq"}}

@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+ETag: "ede987011b741facf1f72fa458b5e198b7d6c36a"
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Cache-Control: private, no-cache, no-store, must-revalidate
+Pragma: no-cache
+X-FB-Rev: 2150592
+X-FB-Trace-ID: BXouu3ZM4xS
+Facebook-API-Version: v2.0
+Content-Type: application/json; charset=UTF-8
+Access-Control-Allow-Origin: *
+Last-Modified: 2015-07-22T18:40:39+0000
+Vary: Accept-Encoding
+X-FB-Debug: hhyPCHhfQCsmh4TrSrbuiXBEhuDjDMQuWeO+T6XXeT7SwScGGWRZPBXh25d/8YU5BruvXhvyXtZk6ar6+zcD2A==
+Date: Thu, 28 Jan 2016 06:26:40 GMT
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{"id":"657917990960865","birthday":"03\/06\/1994","favorite_athletes":[{"id":"278377825523186","name":"Chris Gayle India loves you; West Indies cricket board your ego. booo"},{"id":"65920772679","name":"Maria Sharapova"},{"id":"64760994940","name":"Roger Federer"},{"id":"156706567712616","name":"Ussain Bolt"},{"id":"344128252278047","name":"Sachin Tendulkar"}],"favorite_teams":[{"id":"88795929350","name":"Cricket South Africa"},{"id":"190313434323691","name":"Indian Cricket Team"},{"id":"198358615428","name":"Mumbai Indians"},{"id":"153516655618","name":"Royal Challengers Bangalore"}],"first_name":"Bhumit","gender":"male","inspirational_people":[{"id":"75868015508","name":"I Love My Brother by We're Related"},{"id":"112072088808311","name":"Mukesh Ambani"},{"id":"105324299500553","name":"My Father"},{"id":"177437651217","name":"My Mother & My Father"}],"languages":[{"id":"112969428713061","name":"Hindi"},{"id":"106059522759137","name":"English"},{"id":"106439496057976","name":"Gujarati"}],"last_name":"Shingala","link":"https:\/\/www.facebook.com\/app_scoped_user_id\/657917990960865\/","locale":"en_US","name":"Bhumit Shingala","relationship_status":"Single","quotes":"\"Never Give Up..!!\"\n\n\"It's not about living forever,\nThe trick is living with yourself forever!!\"\n\nThe greatest trick the Devil ever pulled was convincing the world he didn't exist. And like that - He's gone.","timezone":5.5,"updated_time":"2015-07-22T18:40:39+0000","verified":true}

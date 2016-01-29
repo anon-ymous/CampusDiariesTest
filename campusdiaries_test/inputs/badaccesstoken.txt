@@ -1,0 +1,15 @@
+HTTP/1.1 401 Unauthorized
+WWW-Authenticate: OAuth "Facebook Platform" "invalid_token" "The access token could not be decrypted"
+Access-Control-Allow-Origin: *
+Content-Type: application/json; charset=UTF-8
+X-FB-Trace-ID: AJ91lwGPXii
+X-FB-Rev: 2150592
+Pragma: no-cache
+Cache-Control: no-store
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+X-FB-Debug: H6t+en0srzMWU9Jfo+1GtshxWTvmXfdqztsWiGNO4Oo+mQAGK1l7nzzl0PMwjdR8vZyFSSRLExmuaxWJCpCHEw==
+Date: Thu, 28 Jan 2016 06:33:48 GMT
+Connection: keep-alive
+Content-Length: 125
+
+{"error":{"message":"The access token could not be decrypted","type":"OAuthException","code":190,"fbtrace_id":"AJ91lwGPXii"}}
